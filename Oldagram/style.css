@@ -95,6 +95,10 @@ section{
 .icons{
     display: flex;
 }
+.icons img:hover,
+.fa-heart:hover{
+    transform:scale(1.1)
+}
 .icons img{
     width: 22px;
     margin:10px 10px 10px 0;
